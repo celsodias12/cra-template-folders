@@ -1,0 +1,13 @@
+{
+  "name": "cra-template-folders",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "author": "Celso Dias",
+  "license": "MIT"
+}
