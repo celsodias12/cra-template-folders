@@ -1,6 +1,6 @@
 {
   "name": "cra-template-folders",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "keywords": [
@@ -9,5 +9,19 @@
     "template"
   ],
   "author": "Celso Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/celsodias12/cra-template-folders"
+  },
+  "homepage": "https://github.com/celsodias12/cra-template-folders",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/celsodias12/cra-template-folders/issues"
+  },
+  "files": [
+    "template"
+  ]
 }
