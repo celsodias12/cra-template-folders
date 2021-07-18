@@ -6,7 +6,7 @@ Description project
 
 Use the package manager [npm](https://nodejs.org/en/) to install the packages needed to run the project.
 
-```bash
+```javascript
 npm i
 ```
 

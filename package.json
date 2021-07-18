@@ -1,7 +1,7 @@
 {
   "name": "cra-template-folders",
-  "version": "0.0.6",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Template for react and react native.",
   "main": "index.js",
   "keywords": [
     "react",
